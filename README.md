@@ -1,28 +1,16 @@
 <div align="center">
 
-# Hossein Hosseini
-### `seyedalderson`
-
-**IT & Systems · Open to remote work**
-
-🇬🇧 [English](#english) · 🇮🇷 [فارسی](#فارسی)
-
-<a href="https://www.linkedin.com/in/seyedalderson" title="LinkedIn"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="34" height="34" alt="LinkedIn" /></a> <a href="https://t.me/seyedalderson" title="Telegram"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Telegram.svg" width="34" height="34" alt="Telegram" /></a> <a href="https://www.instagram.com/seyedalderson" title="Instagram"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" width="34" height="34" alt="Instagram" /></a> <a href="https://github.com/seyedalderson" title="GitHub"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg" width="34" height="34" alt="GitHub" /></a>
-
-<br />
-
-<a href="https://github.com/seyedtelbot">TelBot Studio</a>
-&nbsp;·&nbsp;
-<a href="https://github.com/seyedtelbot/product-pages">product-pages</a>
-
-<br />
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=linux,bash,docker,cloudflare,nodejs,js,git,github,gitlab,powershell" height="28" alt="skills" />
+**Hossein Hosseini**  
+\seyedalderson\  
+**IT & Systems · Open to remote work**  
+🇬🇧 [English](#english) · 🇮🇷 [فارسی](#فارسی)  
+<a href="https://www.linkedin.com/in/seyedalderson" title="LinkedIn"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="48" height="48" alt="LinkedIn" /></a><a href="https://t.me/seyedalderson" title="Telegram"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Telegram.svg" width="48" height="48" alt="Telegram" /></a><a href="https://www.instagram.com/seyedalderson" title="Instagram"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" width="48" height="48" alt="Instagram" /></a><a href="https://github.com/seyedalderson" title="GitHub"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg" width="48" height="48" alt="GitHub" /></a>  
+[TelBot Studio](https://github.com/seyedtelbot) · [product-pages](https://github.com/seyedtelbot/product-pages)  
+<img src="https://go-skill-icons.vercel.app/api/icons?i=linux,bash,docker,cloudflare,nodejs,js,git,github,gitlab,powershell" height="40" alt="skills" />
 
 </div>
 
 ---
-
 ## English
 
 ### ⚡️🧠👨‍💻 Hi, I'm Hossein!
