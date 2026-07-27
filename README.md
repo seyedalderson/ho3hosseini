@@ -52,12 +52,14 @@ I have worked through telecom-ish environments, field networking, support queues
 Remote projects where I can own a real problem — automation, DevOps/infra, network-aware systems, bots, or custom IT stuff that quietly removes friction from a team's day.
 
 ### Connect
-| | |
-|--|--|
-| LinkedIn | [linkedin.com/in/seyedalderson](https://www.linkedin.com/in/seyedalderson) |
-| Telegram | [t.me/seyedalderson](https://t.me/seyedalderson) |
-| Instagram | [instagram.com/seyedalderson](https://www.instagram.com/seyedalderson) |
-| GitHub | [github.com/seyedalderson](https://github.com/seyedalderson) |
+
+<p>
+  <a href="https://www.linkedin.com/in/seyedalderson"><img src="https://img.shields.io/badge/LinkedIn-seyedalderson-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://t.me/seyedalderson"><img src="https://img.shields.io/badge/Telegram-seyedalderson-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://www.instagram.com/seyedalderson"><img src="https://img.shields.io/badge/Instagram-seyedalderson-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://github.com/seyedalderson"><img src="https://img.shields.io/badge/GitHub-seyedalderson-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
 
 <div align="center">
 
@@ -117,9 +119,10 @@ Remote projects where I can own a real problem — automation, DevOps/infra, net
 برای دیدن محصولات تجاری و ربات‌های تلگرامی من، می‌تونید به [TelBot Studio (`seyedtelbot`)](https://github.com/seyedtelbot) سر بزنید. همچنین برای لایسنس / دموی محصولات تجاری تلگرام به [product-pages](https://github.com/seyedtelbot/product-pages) یا [تلگرام من](https://t.me/seyedalderson) پیام بدید.
 
 ### 🔗 شبکه‌های اجتماعی
-| | |
-|--|--|
-| تلگرام | [t.me/seyedalderson](https://t.me/seyedalderson) |
-| اینستاگرام | [instagram.com/seyedalderson](https://www.instagram.com/seyedalderson) |
-| لینکدین | [linkedin.com/in/seyedalderson](https://www.linkedin.com/in/seyedalderson) |
-| گیت‌هاب | [github.com/seyedalderson](https://github.com/seyedalderson) |
+
+<p>
+  <a href="https://t.me/seyedalderson"><img src="https://img.shields.io/badge/Telegram-seyedalderson-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://www.instagram.com/seyedalderson"><img src="https://img.shields.io/badge/Instagram-seyedalderson-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.linkedin.com/in/seyedalderson"><img src="https://img.shields.io/badge/LinkedIn-seyedalderson-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/seyedalderson"><img src="https://img.shields.io/badge/GitHub-seyedalderson-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
