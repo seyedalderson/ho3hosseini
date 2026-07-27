@@ -61,8 +61,17 @@ Remote projects where I can own a real problem — automation, DevOps/infra, net
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seyedalderson&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seyedalderson&layout=compact&theme=tokyonight&hide_border=true)
+<a href="https://github.com/seyedalderson">
+  <img height="165" src="https://github-readme-stats-one-bice.vercel.app/api?username=seyedalderson&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</a>
+&nbsp;
+<a href="https://github.com/seyedalderson">
+  <img height="165" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=seyedalderson&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</a>
+<br/>
+<a href="https://github.com/seyedalderson">
+  <img src="https://streak-stats.demolab.com/?user=seyedalderson&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</a>
 
 </div>
 
