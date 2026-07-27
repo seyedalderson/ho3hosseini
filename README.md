@@ -10,7 +10,7 @@ Tehran · Open to remote work
 ## English
 
 ### About
-If something feels unnecessarily hard, I notice it fast. People are still explaining the problem and I am already thinking "okay, why are we doing it this way?"
+If something feels unnecessarily hard, I notice it fast. While someone is still explaining the problem, I am already looking for a simpler path.
 
 I like problems with layers. I poke around, connect random-looking pieces, then disappear for a bit and come back with something that actually runs. Titles do not matter much to me. Network, ops, bots, automation, a weird internal tool — if a computer can make someone's day lighter, I am in.
 
@@ -45,7 +45,7 @@ Remote projects where I can own a real problem — automation, DevOps/infra, net
 ## فارسی
 
 ### درباره من
-اگر کاری الکی سخت باشد، زود می‌فهمم. هنوز طرف دارد مسئله را تعریف می‌کند، من توی سرم می‌گویم «باشه، ولی چرا اصلاً این‌جوری انجامش می‌دیم؟»
+اگر کاری الکی سخت باشد، زود می‌فهمم. هنوز دارد مسئله را توضیح می‌دهد، ذهنم می‌رود سراغ اینکه مسیر ساده‌تری هم هست یا نه.
 
 مسئله‌هایی که لایه دارند را دوست دارم. اول این‌ور و آن‌ور را می‌کاوم، تکه‌های به‌ظاهر بی‌ربط را به هم وصل می‌کنم، بعد برای مدتی غیب می‌شوم و با چیزی برمی‌گردم که واقعاً کار می‌کند. عنوان شغلی برام خیلی مهم نیست. شبکه، عملیات، ربات، اتوماسیون، یک ابزار داخلی عجیب — اگر با کامپیوتر بشود روز کسی را سبک‌تر کرد، وسطش هستم.
 
