@@ -1,22 +1,19 @@
 <div align="center">
 
 # Hossein Hosseini
-
-<sub>`seyedalderson`</sub>
+### `seyedalderson`
 
 **IT & Systems · Open to remote work**
 
+<a href="https://www.linkedin.com/in/seyedalderson" title="LinkedIn"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="28" height="28" alt="LinkedIn" /></a>&nbsp;&nbsp;<a href="https://t.me/seyedalderson" title="Telegram"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Telegram.svg" width="28" height="28" alt="Telegram" /></a>&nbsp;&nbsp;<a href="https://www.instagram.com/seyedalderson" title="Instagram"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" width="28" height="28" alt="Instagram" /></a>&nbsp;&nbsp;<a href="https://github.com/seyedalderson" title="GitHub"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg" width="28" height="28" alt="GitHub" /></a>
+
 <br />
-
-<a href="https://www.linkedin.com/in/seyedalderson" title="LinkedIn"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="26" height="26" alt="LinkedIn" /></a>&emsp;<a href="https://t.me/seyedalderson" title="Telegram"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Telegram.svg" width="26" height="26" alt="Telegram" /></a>&emsp;<a href="https://www.instagram.com/seyedalderson" title="Instagram"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" width="26" height="26" alt="Instagram" /></a>&emsp;<a href="https://github.com/seyedalderson" title="GitHub"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg" width="26" height="26" alt="GitHub" /></a>
-
-<br /><br />
 
 <a href="https://github.com/seyedtelbot">TelBot Studio</a>
 &nbsp;·&nbsp;
 <a href="https://github.com/seyedtelbot/product-pages">product-pages</a>
 
-<br /><br />
+<br />
 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,bash,docker,cloudflare,nodejs,js,git,github,gitlab,powershell" height="28" alt="skills" />
 
