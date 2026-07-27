@@ -1,9 +1,20 @@
+<div align="center">
+
 # Hossein Hosseini (`seyedalderson`)
 
-**IT & Systems Geek**  
-Open to remote work
+**IT & Systems Geek** · Open to remote work
 
-[LinkedIn](https://www.linkedin.com/in/seyedalderson) · [GitHub](https://github.com/seyedalderson)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-seyedalderson-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seyedalderson)
+[![GitHub](https://img.shields.io/badge/GitHub-seyedalderson-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seyedalderson)
+[![Telegram](https://img.shields.io/badge/Telegram-seyedalderson-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/seyedalderson)
+[![Instagram](https://img.shields.io/badge/Instagram-seyedalderson-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seyedalderson)
+
+[![Website](https://img.shields.io/badge/TelBot_Studio-seyedtelbot-2ea44f?style=flat-square&logo=telegram)](https://github.com/seyedtelbot)
+[![Products](https://img.shields.io/badge/product--pages-demos%20%2F%20license-6f42c1?style=flat-square)](https://github.com/seyedtelbot/product-pages)
+
+<img src="https://skillicons.dev/icons?i=linux,bash,docker,cloudflare,nodejs,js,git,github,gitlab,powershell" alt="skills" />
+
+</div>
 
 ---
 
@@ -39,6 +50,21 @@ I have worked through telecom-ish environments, field networking, support queues
 
 ### Looking for
 Remote projects where I can own a real problem — automation, DevOps/infra, network-aware systems, bots, or custom IT stuff that quietly removes friction from a team's day.
+
+### Connect
+| | |
+|--|--|
+| LinkedIn | [linkedin.com/in/seyedalderson](https://www.linkedin.com/in/seyedalderson) |
+| Telegram | [t.me/seyedalderson](https://t.me/seyedalderson) |
+| Instagram | [instagram.com/seyedalderson](https://www.instagram.com/seyedalderson) |
+| GitHub | [github.com/seyedalderson](https://github.com/seyedalderson) |
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seyedalderson&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seyedalderson&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
@@ -79,4 +105,12 @@ Remote projects where I can own a real problem — automation, DevOps/infra, net
 پروژه‌های ریموت که بتونم مالکیت یک مسئله واقعی رو به عهده بگیرم — اتوماسیون، DevOps/زیرساخت، سیستم‌های شبکه‌محور، ربات، یا ابزار IT سفارشی که بی‌سروصدا کار روزمرهٔ تیم رو سبک کنه.
 
 ### 🌐 محصولات و سازمان‌ها
-برای دیدن محصولات تجاری و ربات‌های تلگرامی من، می‌تونید به [TelBot Studio (`seyedtelbot`)](https://github.com/seyedtelbot) سر بزنید. همچنین برای لایسنس / دموی محصولات تجاری تلگرام به [product-pages](https://github.com/seyedtelbot/product-pages) یا تلگرام من پیام بدید.
+برای دیدن محصولات تجاری و ربات‌های تلگرامی من، می‌تونید به [TelBot Studio (`seyedtelbot`)](https://github.com/seyedtelbot) سر بزنید. همچنین برای لایسنس / دموی محصولات تجاری تلگرام به [product-pages](https://github.com/seyedtelbot/product-pages) یا [تلگرام من](https://t.me/seyedalderson) پیام بدید.
+
+### 🔗 شبکه‌های اجتماعی
+| | |
+|--|--|
+| تلگرام | [t.me/seyedalderson](https://t.me/seyedalderson) |
+| اینستاگرام | [instagram.com/seyedalderson](https://www.instagram.com/seyedalderson) |
+| لینکدین | [linkedin.com/in/seyedalderson](https://www.linkedin.com/in/seyedalderson) |
+| گیت‌هاب | [github.com/seyedalderson](https://github.com/seyedalderson) |
