@@ -1,15 +1,28 @@
-# سید آلدرسون (`seyedalderson`)
+# Hossein Hosseini (`seyedalderson`)
 
-توسعه‌دهندهٔ ربات‌های تلگرام — تمرکز روی اتوماسیون کسب‌وکار، فروش، و نوبت‌دهی.
+**DevOps Expert** — Infrastructure, networks, and service operations. Based in **Tehran, Iran**.
 
-## الان روی چه کار می‌کنم
-- محصولات لایسنسی: **[TelBot Studio](https://github.com/seyedtelbot)** (`seyedtelbot`)
-- پروژه‌های شخصی: **[Seyed Lab](https://github.com/Seyed-Lab-Repo)** (`Seyed-Lab-Repo`) — مثل ردپنهان
+Building licensed Telegram products under **[TelBot Studio](https://github.com/seyedtelbot)** and personal platforms under **[Seyed Lab](https://github.com/Seyed-Lab-Repo)**.
 
-## محصولات عمومی (معرفی)
-- [VPN Seller](https://github.com/seyedtelbot/product-pages/blob/main/products/vpn-seller.md)
-- [Tattoo Scheduler](https://github.com/seyedtelbot/product-pages/blob/main/products/tattoo-scheduler.md)
-- فهرست کامل: [product-pages](https://github.com/seyedtelbot/product-pages)
+## Focus
+- DevOps / infrastructure / networking (career track)
+- Telegram bots for business automation & licensed SaaS-style products
+- Cloudflare Workers · Node.js · GitHub/GitLab dual-host workflows
 
-## تماس / لایسنس
-> این بخش را با اطلاعات خودتان کامل کنید: شهر، تخصص یک‌خطی، لینک تلگرام/سایت/ایمیل.
+## Orgs & products
+| Space | Where | What |
+|------|-------|------|
+| Commercial | [seyedtelbot](https://github.com/seyedtelbot) | VPN Seller, Tattoo Scheduler, TelBot Modules |
+| Public intros | [product-pages](https://github.com/seyedtelbot/product-pages) | Feature pages without source |
+| Personal | [Seyed-Lab-Repo](https://github.com/Seyed-Lab-Repo) | RadePenhan (private) |
+
+## Background (LinkedIn)
+- Infra & Services Team Lead — Tavana-Co (2024–2025)
+- Transmission / Microwave / Technical Support — telecom & service desk track
+- Education: Islamic Azad University
+
+## Links
+- LinkedIn: [linkedin.com/in/seyedalderson](https://www.linkedin.com/in/seyedalderson)
+- GitHub: [github.com/seyedalderson](https://github.com/seyedalderson)
+
+> For license / demo inquiries, use LinkedIn or the contact channel published on product-pages.
