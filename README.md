@@ -1,27 +1,14 @@
 <div align="center">
 
 # Hossein Hosseini
-### `seyedalderson`
 
-IT & Systems · Open to remote work
+<sub>`seyedalderson`</sub>
+
+**IT & Systems · Open to remote work**
 
 <br />
 
-<a href="https://www.linkedin.com/in/seyedalderson" title="LinkedIn">
-  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="32" height="32" alt="LinkedIn" />
-</a>
-&emsp;&emsp;
-<a href="https://t.me/seyedalderson" title="Telegram">
-  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Telegram.svg" width="32" height="32" alt="Telegram" />
-</a>
-&emsp;&emsp;
-<a href="https://www.instagram.com/seyedalderson" title="Instagram">
-  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" width="32" height="32" alt="Instagram" />
-</a>
-&emsp;&emsp;
-<a href="https://github.com/seyedalderson" title="GitHub">
-  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg" width="32" height="32" alt="GitHub" />
-</a>
+<a href="https://www.linkedin.com/in/seyedalderson" title="LinkedIn"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="26" height="26" alt="LinkedIn" /></a>&emsp;<a href="https://t.me/seyedalderson" title="Telegram"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Telegram.svg" width="26" height="26" alt="Telegram" /></a>&emsp;<a href="https://www.instagram.com/seyedalderson" title="Instagram"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" width="26" height="26" alt="Instagram" /></a>&emsp;<a href="https://github.com/seyedalderson" title="GitHub"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg" width="26" height="26" alt="GitHub" /></a>
 
 <br /><br />
 
@@ -31,7 +18,7 @@ IT & Systems · Open to remote work
 
 <br /><br />
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=linux,bash,docker,cloudflare,nodejs,js,git,github,gitlab,powershell&theme=dark" alt="skills" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=linux,bash,docker,cloudflare,nodejs,js,git,github,gitlab,powershell" height="28" alt="skills" />
 
 </div>
 
@@ -76,7 +63,7 @@ Remote projects where I can own a real problem — automation, DevOps/infra, net
 ### 🌐 Products & orgs
 For commercial Telegram products, see [TelBot Studio (`seyedtelbot`)](https://github.com/seyedtelbot). For license / demos, check [product-pages](https://github.com/seyedtelbot/product-pages) or message me on [Telegram](https://t.me/seyedalderson).
 
-### 🔗 Social
+### 🔗 Get in touch
 
 [Telegram](https://t.me/seyedalderson)
 &nbsp;·&nbsp;
@@ -127,7 +114,7 @@ For commercial Telegram products, see [TelBot Studio (`seyedtelbot`)](https://gi
 ### 🌐 محصولات و سازمان‌ها
 برای دیدن محصولات تجاری و ربات‌های تلگرامی من، می‌تونید به [TelBot Studio (`seyedtelbot`)](https://github.com/seyedtelbot) سر بزنید. همچنین برای لایسنس / دموی محصولات تجاری تلگرام به [product-pages](https://github.com/seyedtelbot/product-pages) یا [تلگرام من](https://t.me/seyedalderson) پیام بدید.
 
-### 🔗 شبکه‌های اجتماعی
+### 🔗 ارتباط با من
 
 [تلگرام](https://t.me/seyedalderson)
 &nbsp;·&nbsp;
