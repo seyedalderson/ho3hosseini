@@ -8,19 +8,19 @@ IT & Systems · Open to remote work
 <br />
 
 <a href="https://www.linkedin.com/in/seyedalderson" title="LinkedIn">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="28" height="28" alt="LinkedIn" />
+  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="32" height="32" alt="LinkedIn" />
 </a>
 &emsp;&emsp;
 <a href="https://t.me/seyedalderson" title="Telegram">
-  <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="28" height="28" alt="Telegram" />
+  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Telegram.svg" width="32" height="32" alt="Telegram" />
 </a>
 &emsp;&emsp;
 <a href="https://www.instagram.com/seyedalderson" title="Instagram">
-  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="28" height="28" alt="Instagram" />
+  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" width="32" height="32" alt="Instagram" />
 </a>
 &emsp;&emsp;
 <a href="https://github.com/seyedalderson" title="GitHub">
-  <img src="https://cdn.simpleicons.org/github/181717" width="28" height="28" alt="GitHub" />
+  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg" width="32" height="32" alt="GitHub" />
 </a>
 
 <br /><br />
@@ -31,7 +31,7 @@ IT & Systems · Open to remote work
 
 <br /><br />
 
-<img src="https://skillicons.dev/icons?i=linux,bash,docker,cloudflare,nodejs,js,git,github,gitlab,powershell" alt="skills" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=linux,bash,docker,cloudflare,nodejs,js,git,github,gitlab,powershell&theme=dark" alt="skills" />
 
 </div>
 
@@ -39,44 +39,50 @@ IT & Systems · Open to remote work
 
 ## English
 
-### About
-If something feels unnecessarily hard, I notice it fast. While someone is still explaining the problem, I am already looking for a simpler path.
+### ⚡️🧠👨‍💻 Hi, I'm Hossein!
+Welcome to my GitHub profile! I work across the IT and infrastructure ecosystem, and I'm actively looking for remote projects.
 
-I like problems with layers. I poke around, connect random-looking pieces, then disappear for a bit and come back with something that actually runs. Titles do not matter much to me. Network, ops, bots, automation, a weird internal tool — if a computer can make someone's day lighter, I am in.
+My brain hates busywork and fake complexity. While someone is still explaining the problem, I'm already hunting for the simplest path that actually works.
 
-I have spent years around infrastructure, communications systems, and support work, so I do not romanticize "perfect architecture." I care about what survives a busy day and a tired user.
+### When a Geek mind meets ADHD processing 🦸‍♂️
+You get a problem-solving machine that loves systems and automation:
 
-These days I am building my own **AI-backed way of working** — less busywork, faster from idea to working system, closer to how my brain actually moves. It is still messy and alive, and honestly that is the point: I build for myself first, then clean it up so others can use it too.
+- 🎯 **Hyperfocus on layered challenges:** I find pieces that look unrelated, disappear for a bit, and come back with something that actually runs.
+- 🚀 **Escape from routine = build automation:** Repeated pain annoys me fast, so I turn it into an automated system.
+- 🧩 **Domain hopping:** Staying in one box bores me. If the problem needs it, I switch between networking, ops, automation, or even a weird bot. Job titles don't matter much — if a computer can make someone's day lighter, I'm in.
 
-### How I work
-- I get annoyed by repeated pain, so I turn it into a system
-- I can hold a lot of moving parts, then make the outside feel simple
-- I jump between domains when the problem needs it
-- I would rather ship something useful than polish a deck forever
-- If my teammate cannot follow the path, I treat that as a bug
-- I get bored in one box — new fields keep me sharp, reliability keeps me honest
+### 🛠 How I work & what I believe
+Years in telecom-ish environments, field networking, support queues, and infra leadership killed any romance I had with "paper architecture."
 
-### What you get
+- I care about systems that survive a busy day and a tired user.
+- I can hold a lot of moving parts, then keep the outside simple.
+- If my teammate can't follow the path I built, I treat that as a bug.
+- I'd rather ship something usable than polish a deck forever.
+
+### ⚡️ What I'm working on now
+These days I'm building my own AI-backed way of working — faster from idea to working system, closer to how my brain actually moves. I usually build it for myself first, then clean it up so others can use it too.
+
+### 🤝 What you get from working with me
 - Someone who thinks in systems, not just tickets
 - Automation that respects real-world mess
-- Bot / conversational products with real UX care
+- Bot / conversational products with serious UX care
 - Cloud and runtime delivery without chaotic Git habits
-- A person who can keep things running *and* build the next thing
-- Remote work with clear ownership: understand → build → document → hand off
+- Someone who can keep things running *and* build the next thing
+- Clear remote ownership: understand → build → document → hand off
 
-### Background, in plain words
-I have worked through telecom-ish environments, field networking, support queues, and infra leadership. That means I know what "the system is down" feels like on both sides of the ticket.
+### 🔭 Looking for
+Remote projects where I can own a real problem — automation, DevOps/infra, network-aware systems, bots, or custom IT tools that quietly remove friction from a team's day.
 
-### Looking for
-Remote projects where I can own a real problem — automation, DevOps/infra, network-aware systems, bots, or custom IT stuff that quietly removes friction from a team's day.
+### 🌐 Products & orgs
+For commercial Telegram products, see [TelBot Studio (`seyedtelbot`)](https://github.com/seyedtelbot). For license / demos, check [product-pages](https://github.com/seyedtelbot/product-pages) or message me on [Telegram](https://t.me/seyedalderson).
 
-### Connect
+### 🔗 Social
 
-[LinkedIn](https://www.linkedin.com/in/seyedalderson)
-&nbsp;·&nbsp;
 [Telegram](https://t.me/seyedalderson)
 &nbsp;·&nbsp;
 [Instagram](https://www.instagram.com/seyedalderson)
+&nbsp;·&nbsp;
+[LinkedIn](https://www.linkedin.com/in/seyedalderson)
 &nbsp;·&nbsp;
 [GitHub](https://github.com/seyedalderson)
 
@@ -84,7 +90,7 @@ Remote projects where I can own a real problem — automation, DevOps/infra, net
 
 ## فارسی
 
-### 👨‍💻 سلام، من سید (حسین) هستم! | IT & Systems Geek 🧠⚡
+### ⚡️🧠👨‍💻 سلام، من حسینم!
 به پروفایل گیت‌هاب من خوش اومدید! من در تمام حوزه‌های اکوسیستم IT و زیرساخت فعالیت می‌کنم و با افتخار به دنبال پروژه‌های ریموت می‌گردم.
 
 ذهن من جوری کار می‌کنه که از کارهای بیهوده و پیچیدگی‌های الکی بیزاره. وقتی کسی هنوز داره مسئله رو توضیح می‌ده، مغز من از قبل رفته سراغ پیدا کردن ساده‌ترین مسیر ممکن برای حل اون.
@@ -104,7 +110,7 @@ Remote projects where I can own a real problem — automation, DevOps/infra, net
 - اگر هم‌تیمی من نتونه مسیری که ساختم رو راحت متوجه بشه، از نظر من اون سیستم باگ داره.
 - من نسخهٔ قابل‌استفاده رو به ماه‌ها درگیر شدن روی یک پاورپوینت ترجیح می‌دم.
 
-### ⚡ در حال حاضر روی چی کار می‌کنم؟
+### ⚡️ در حال حاضر روی چی کار می‌کنم؟
 این روزها دارم شیوهٔ کار خودم رو با کمک هوش مصنوعی (AI) می‌سازم. هدفم رسیدنِ سریع‌تر از ایده به محصول نهایی و هماهنگی بیشتر با سرعت ذهنی خودمه. معمولاً اول برای خودم می‌سازمش و بعد اون‌قدر تمیزش می‌کنم که بقیه هم بتونن ازش استفاده کنن.
 
 ### 🤝 از کار کردن با من چی گیرتون میاد؟
