@@ -1,7 +1,7 @@
 # Hossein Hosseini (`seyedalderson`)
 
 **DevOps · Infrastructure · Automation · Systems Builder**  
-Tehran, Iran · Open to **remote** collaboration
+Tehran, Iran · Open to **remote** work
 
 [LinkedIn](https://www.linkedin.com/in/seyedalderson) · [GitHub](https://github.com/seyedalderson)
 
@@ -10,60 +10,70 @@ Tehran, Iran · Open to **remote** collaboration
 ## English
 
 ### About
-I am an IT geek with ADHD-level curiosity: I obsess over how systems work, then turn that curiosity into tools that make everyday work simpler. My focus is not locked to one niche — if a problem can be made easier with computers, networks, automation, or software, I will design a system for it.
+I notice friction before people finish explaining it. A slow handoff, a repeated click, a process that only lives in someone’s head — those things bother me, and I usually cannot leave them alone until there is a cleaner path.
 
-I bring a practical background in infrastructure, networking, communications systems, and service operations, plus hands-on product work around conversational bots, cloud runtimes, and developer workflows. I care about reliability, clear UX for end users, and shipping something people can actually use.
+I work best when a problem has depth: I go wide first, connect pieces across domains, then lock in and build until the system feels simple from the outside. I am comfortable jumping between networking, operations, product UX, and automation when the real goal is the same — make daily work less exhausting.
 
-I am currently building an **AI-assisted personal operating system** — tooling and workflows shaped around how I think and work: capturing intent, reducing friction, and turning ideas into running systems faster. Parts of this are already in active development and serve as living samples of how I approach productized automation.
+I do not stay boxed into one title. If a business pain can be solved with computers, I will design something for it: a flow, a bot, a dashboard, an infra pattern, whatever removes the drag. My background in infrastructure, communications systems, and service operations keeps me honest about what survives contact with real users and messy environments.
 
-### What I am good at
-- Designing and operating infrastructure / network-oriented systems
-- Turning messy operational needs into automated, repeatable flows
-- Building Telegram-based products and bot UX with production-minded architecture
-- Shipping on modern cloud/runtime stacks (e.g. Workers / Node) with disciplined Git workflows
-- Bridging **ops reality** (support, reliability, hybrid environments) with **builder mindset** (product, DX, iteration)
-- Working independently on remote scopes: clarify → design → implement → document → hand off
+Right now I am shaping an **AI-assisted way of working** around how I actually think — capturing intent quickly, cutting busywork, and turning ideas into running systems without drowning in ceremony. It is still evolving, and it is also where you can see how I design tools for myself first, then harden them for others.
 
-### Experience shape (without confidential details)
-Across telecom, field networking, technical support / service desk, and infrastructure leadership tracks, I have practiced:
-- keeping services available and understandable for users
-- coordinating hybrid and on-site operational constraints
-- transmission / RF / fiber-oriented environments
-- Windows and service-desk oriented support loops
-- leading infra & services delivery in a product/ops setting
+### How I tend to work
+- Spot repeating pain early and turn it into a system, not a one-off fix
+- Hold many moving parts in my head, then simplify what others have to touch
+- Switch contexts when the problem demands it — ops, network, product, automation
+- Prefer shipping something usable over polishing a slide deck forever
+- Care about clarity: if a teammate cannot understand the path, the system is unfinished
+- Stay curious across fields; novelty is fuel, reliability is the filter
+
+### What I bring
+- Infrastructure and network-minded systems thinking
+- Automation that respects real operational constraints
+- Conversational / bot products with production UX instincts
+- Modern cloud and runtime delivery with disciplined Git workflows
+- The bridge between **keeping things running** and **building what should exist next**
+- Remote ownership: clarify the problem, design, implement, document, hand off cleanly
+
+### Experience in practice
+Across telecom-style environments, field networking, technical support loops, and infrastructure leadership, I have practiced keeping services understandable, coordinating hybrid realities, supporting users under pressure, and delivering systems that still work when the day gets noisy.
 
 ### Looking for
-Remote contract / freelance work where I can own a clear problem end-to-end: automation, DevOps/infra, networking-aware systems, bot platforms, or custom IT systems that remove daily friction for a team or business.
+Remote contract work where I can own a clear problem end-to-end — automation, DevOps/infra, networking-aware systems, bot platforms, or custom IT systems that quietly remove friction from a team’s day.
 
 ---
 
 ## فارسی
 
 ### درباره من
-یک گیک فناوری اطلاعات با کنجکاوی سطح ADHD هستم: اول می‌فهمم سیستم‌ها چطور کار می‌کنند، بعد همان فهم را تبدیل می‌کنم به ابزاری که کار روزمره را ساده‌تر کند. محدود به یک حوزه خاص نیستم — اگر بتوان با کامپیوتر، شبکه، اتوماسیون یا نرم‌افزار مسئله‌ای را راحت‌تر کرد، برایش سیستم طراحی می‌کنم.
+اصطکاک را معمولاً قبل از اینکه طرف مقابل جمله‌اش تمام شود می‌بینم. یک تحویل‌کاری کُند، یک کلیک تکراری، فرآیندی که فقط توی ذهن یک نفر زندگی می‌کند — این‌ها آرامم نمی‌گذارند؛ تا مسیر تمیزتری ساخته نشود رهایشان نمی‌کنم.
 
-پس‌زمینهٔ عملی‌ام ترکیبی از زیرساخت، شبکه، سیستم‌های ارتباطی و عملیات سرویس است؛ کنارش تجربهٔ ساخت محصول روی ربات‌های گفت‌وگویی، محیط‌های ابری و جریان کار توسعه‌دهنده را دارم. برایم قابلیت اتکا، تجربهٔ کاربری شفاف، و تحویل چیزی که واقعاً قابل استفاده باشد مهم است.
+وقتی مسئله عمق دارد بهتر کار می‌کنم: اول پهن می‌شوم، تکه‌ها را از حوزه‌های مختلف به هم وصل می‌کنم، بعد قفل می‌کنم و می‌سازم تا سیستم از بیرون ساده به نظر برسد. اگر هدف یکی باشد، بین شبکه، عملیات، تجربهٔ محصول و اتوماسیون جابه‌جا می‌شوم — چون برایم عنوان مهم نیست؛ کم‌کردن خستگی روزمره مهم است.
 
-الان روی ساخت یک **سیستم عامل شخصی مبتنی بر AI** کار می‌کنم — ابزارها و workflowهایی هم‌راستا با طرز فکر و سبک کار خودم: ثبت نیت، کم کردن اصطکاک، و تبدیل ایده به سیستمِ در حال اجرا با سرعت بیشتر. بخش‌هایی از این مسیر در حال توسعه است و نمونهٔ زندهٔ رویکرد من به اتوماسیون محصول‌محور محسوب می‌شود.
+خودم را داخل یک برچسب شغلی حبس نمی‌کنم. اگر درد یک کسب‌وکار با کامپیوتر حل می‌شود، برایش چیزی طراحی می‌کنم: جریان کار، ربات، داشبورد، الگوی زیرساخت — هرچه بار اضافه را بردارد. سابقهٔ زیرساخت، سیستم‌های ارتباطی و عملیات سرویس کمک می‌کند واقع‌بین بمانم: چیزی که روی اسلاید قشنگ است با چیزی که کنار کاربر واقعی دوام می‌آورد فرق دارد.
 
-### در چه چیزهایی قوی‌ام
-- طراحی و بهره‌برداری از سیستم‌های زیرساختی / شبکه‌محور
-- تبدیل نیازهای عملیاتی به‌هم‌ریخته به جریان‌های خودکار و تکرارپذیر
-- ساخت محصولات تلگرامی و UX ربات با نگاه production
-- تحویل روی استک‌های مدرن ابری/runtime با نظم در Git
-- پیوند **واقعیت عملیات** (پشتیبانی، پایداری، محیط‌های ترکیبی) با **نگاه سازنده** (محصول، DX، تکرار سریع)
-- کار مستقل روی پروژه‌های ریموت: شفاف‌سازی → طراحی → پیاده‌سازی → مستندسازی → تحویل
+الان دارم یک **شیوهٔ کار مبتنی بر AI** دورِ طرز فکر خودم شکل می‌دهم — ثبت سریع نیت، کم‌کردن کار اضافه، و تبدیل ایده به سیستمِ در حال اجرا بدون تشریفات بیهوده. هنوز در حال رشد است؛ و همزمان بهترین جا برای دیدن این است که اول برای خودم ابزار می‌سازم، بعد آن را برای دیگران محکم می‌کنم.
 
-### شکل تجربه (بدون جزئیات محرمانه)
-در مسیرهایی مثل مخابرات، شبکهٔ میدانی، پشتیبانی فنی / Service Desk و راهبری زیرساخت و سرویس‌ها تجربه کرده‌ام:
-- در دسترس و قابل‌فهم نگه داشتن سرویس برای کاربر
-- کار با محدودیت‌های عملیاتی hybrid و on-site
-- محیط‌های مرتبط با انتقال / RF / فیبر
-- حلقه‌های پشتیبانی مبتنی بر Windows و Service Desk
-- هدایت تحویل infra و سرویس‌ها در بستر محصول/عملیات
+### چطور کار می‌کنم
+- دردهای تکراری را زود می‌بینم و به‌جای وصلهٔ موقت، سیستم می‌سازم
+- قطعات زیاد را هم‌زمان نگه می‌دارم، بعد چیزی می‌سازم که لمسش برای دیگران ساده باشد
+- اگر مسئله بخواهد، بین ops، شبکه، محصول و اتوماسیون جابه‌جا می‌شوم
+- به‌جای بی‌نهایت پولیش روی ارائه، نسخهٔ قابل‌استفاده تحویل می‌دهم
+- شفافیت برایم جدی است: اگر مسیر برای هم‌تیمی فهمیدنی نباشد، کار تمام نیست
+- کنجکاوی بین‌حوزه‌ای دارم؛ تازگی سوخت است، پایداری فیلتر
+
+### چه می‌آورم
+- تفکر سیستمی با ذهنیت زیرساخت و شبکه
+- اتوماسیونی که محدودیت‌های واقعی عملیات را می‌فهمد
+- محصولات گفت‌وگویی / ربات با غریزهٔ UX سطح production
+- تحویل روی استک‌های ابری و runtime مدرن با نظم در Git
+- پل بین **روشن نگه‌داشتن سیستم** و **ساختن چیزی که باید بعدی باشد**
+- مالکیت ریموت: شفاف‌سازی مسئله، طراحی، پیاده‌سازی، مستندسازی، تحویل تمیز
+
+### تجربه در عمل
+در محیط‌های مخابراتی، شبکهٔ میدانی، حلقه‌های پشتیبانی فنی، و راهبری زیرساخت و سرویس‌ها تمرین کرده‌ام سرویس را فهمیدنی نگه دارم، واقعیت hybrid را مدیریت کنم، زیر فشار به کاربر کمک کنم، و سیستمی بسازم که وقتی روز شلوغ می‌شود هم سرپا بماند.
 
 ### به دنبال چه هستم
-همکاری **ریموت** (قراردادی / فریلنس) روی مسئله‌ای که بتوانم سر تا ته آن را جلو ببرم: اتوماسیون، DevOps/زیرساخت، سیستم‌های آگاه به شبکه، پلتفرم‌های ربات، یا سیستم‌های IT سفارشی که اصطکاک روزمرهٔ تیم یا کسب‌وکار را کم کنند.
+همکاری ریموت روی مسئله‌ای که بتوانم از اول تا آخرش را جلو ببرم — اتوماسیون، DevOps/زیرساخت، سیستم‌های آگاه به شبکه، پلتفرم ربات، یا سیستم‌های IT سفارشی که بی‌سروصدا اصطکاک روزانهٔ یک تیم را کم کنند.
 
 ---
 
@@ -74,4 +84,4 @@ Remote contract / freelance work where I can own a clear problem end-to-end: aut
 | Public product intros | [product-pages](https://github.com/seyedtelbot/product-pages) |
 | Personal lab | [Seyed Lab (`Seyed-Lab-Repo`)](https://github.com/Seyed-Lab-Repo) |
 
-For licensing / demos of commercial Telegram products, start from [product-pages](https://github.com/seyedtelbot/product-pages) or reach out via [LinkedIn](https://www.linkedin.com/in/seyedalderson).
+For licensing / demos of commercial Telegram products, start from [product-pages](https://github.com/seyedtelbot/product-pages) or message me on [LinkedIn](https://www.linkedin.com/in/seyedalderson).
