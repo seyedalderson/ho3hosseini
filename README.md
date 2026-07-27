@@ -1,16 +1,35 @@
 <div align="center">
 
-# Hossein Hosseini (`seyedalderson`)
+# Hossein Hosseini
+### `seyedalderson`
 
-**IT & Systems Geek** · Open to remote work
+IT & Systems · Open to remote work
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-seyedalderson-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seyedalderson)
-[![GitHub](https://img.shields.io/badge/GitHub-seyedalderson-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seyedalderson)
-[![Telegram](https://img.shields.io/badge/Telegram-seyedalderson-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/seyedalderson)
-[![Instagram](https://img.shields.io/badge/Instagram-seyedalderson-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seyedalderson)
+<br />
 
-[![Website](https://img.shields.io/badge/TelBot_Studio-seyedtelbot-2ea44f?style=flat-square&logo=telegram)](https://github.com/seyedtelbot)
-[![Products](https://img.shields.io/badge/product--pages-demos%20%2F%20license-6f42c1?style=flat-square)](https://github.com/seyedtelbot/product-pages)
+<a href="https://www.linkedin.com/in/seyedalderson" title="LinkedIn">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="28" height="28" alt="LinkedIn" />
+</a>
+&emsp;&emsp;
+<a href="https://t.me/seyedalderson" title="Telegram">
+  <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="28" height="28" alt="Telegram" />
+</a>
+&emsp;&emsp;
+<a href="https://www.instagram.com/seyedalderson" title="Instagram">
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="28" height="28" alt="Instagram" />
+</a>
+&emsp;&emsp;
+<a href="https://github.com/seyedalderson" title="GitHub">
+  <img src="https://cdn.simpleicons.org/github/181717" width="28" height="28" alt="GitHub" />
+</a>
+
+<br /><br />
+
+<a href="https://github.com/seyedtelbot">TelBot Studio</a>
+&nbsp;·&nbsp;
+<a href="https://github.com/seyedtelbot/product-pages">product-pages</a>
+
+<br /><br />
 
 <img src="https://skillicons.dev/icons?i=linux,bash,docker,cloudflare,nodejs,js,git,github,gitlab,powershell" alt="skills" />
 
@@ -53,29 +72,13 @@ Remote projects where I can own a real problem — automation, DevOps/infra, net
 
 ### Connect
 
-<p>
-  <a href="https://www.linkedin.com/in/seyedalderson"><img src="https://img.shields.io/badge/LinkedIn-seyedalderson-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://t.me/seyedalderson"><img src="https://img.shields.io/badge/Telegram-seyedalderson-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="https://www.instagram.com/seyedalderson"><img src="https://img.shields.io/badge/Instagram-seyedalderson-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://github.com/seyedalderson"><img src="https://img.shields.io/badge/GitHub-seyedalderson-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
-
-
-<div align="center">
-
-<a href="https://github.com/seyedalderson">
-  <img height="165" src="https://github-readme-stats-one-bice.vercel.app/api?username=seyedalderson&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</a>
-&nbsp;
-<a href="https://github.com/seyedalderson">
-  <img height="165" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=seyedalderson&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-</a>
-<br/>
-<a href="https://github.com/seyedalderson">
-  <img src="https://streak-stats.demolab.com/?user=seyedalderson&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</a>
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/seyedalderson)
+&nbsp;·&nbsp;
+[Telegram](https://t.me/seyedalderson)
+&nbsp;·&nbsp;
+[Instagram](https://www.instagram.com/seyedalderson)
+&nbsp;·&nbsp;
+[GitHub](https://github.com/seyedalderson)
 
 ---
 
@@ -120,9 +123,10 @@ Remote projects where I can own a real problem — automation, DevOps/infra, net
 
 ### 🔗 شبکه‌های اجتماعی
 
-<p>
-  <a href="https://t.me/seyedalderson"><img src="https://img.shields.io/badge/Telegram-seyedalderson-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="https://www.instagram.com/seyedalderson"><img src="https://img.shields.io/badge/Instagram-seyedalderson-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://www.linkedin.com/in/seyedalderson"><img src="https://img.shields.io/badge/LinkedIn-seyedalderson-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/seyedalderson"><img src="https://img.shields.io/badge/GitHub-seyedalderson-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
+[تلگرام](https://t.me/seyedalderson)
+&nbsp;·&nbsp;
+[اینستاگرام](https://www.instagram.com/seyedalderson)
+&nbsp;·&nbsp;
+[لینکدین](https://www.linkedin.com/in/seyedalderson)
+&nbsp;·&nbsp;
+[گیت‌هاب](https://github.com/seyedalderson)
