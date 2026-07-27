@@ -5,7 +5,7 @@
 
 **IT & Systems · Open to remote work**
 
-🇬🇧 [English](#english) · 🇮🇷 [نسخه فارسی](#فارسی)
+🇬🇧 [English](#english) · 🇮🇷 [فارسی](#فارسی)
 
 <a href="https://www.linkedin.com/in/seyedalderson" title="LinkedIn"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="34" height="34" alt="LinkedIn" /></a> <a href="https://t.me/seyedalderson" title="Telegram"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Telegram.svg" width="34" height="34" alt="Telegram" /></a> <a href="https://www.instagram.com/seyedalderson" title="Instagram"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" width="34" height="34" alt="Instagram" /></a> <a href="https://github.com/seyedalderson" title="GitHub"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg" width="34" height="34" alt="GitHub" /></a>
 
