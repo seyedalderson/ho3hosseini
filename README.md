@@ -5,7 +5,7 @@
 
 **IT & Systems · Open to remote work**
 
-<a href="https://www.linkedin.com/in/seyedalderson" title="LinkedIn"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="28" height="28" alt="LinkedIn" /></a>&nbsp;&nbsp;<a href="https://t.me/seyedalderson" title="Telegram"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Telegram.svg" width="28" height="28" alt="Telegram" /></a>&nbsp;&nbsp;<a href="https://www.instagram.com/seyedalderson" title="Instagram"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" width="28" height="28" alt="Instagram" /></a>&nbsp;&nbsp;<a href="https://github.com/seyedalderson" title="GitHub"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg" width="28" height="28" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/seyedalderson" title="LinkedIn"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="34" height="34" alt="LinkedIn" /></a> <a href="https://t.me/seyedalderson" title="Telegram"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Telegram.svg" width="34" height="34" alt="Telegram" /></a> <a href="https://www.instagram.com/seyedalderson" title="Instagram"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" width="34" height="34" alt="Instagram" /></a> <a href="https://github.com/seyedalderson" title="GitHub"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg" width="34" height="34" alt="GitHub" /></a>
 
 <br />
 
