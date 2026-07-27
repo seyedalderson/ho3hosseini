@@ -5,6 +5,8 @@
 
 **IT & Systems · Open to remote work**
 
+🇮🇷 [نسخه فارسی](README.fa.md)
+
 <a href="https://www.linkedin.com/in/seyedalderson" title="LinkedIn"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="34" height="34" alt="LinkedIn" /></a> <a href="https://t.me/seyedalderson" title="Telegram"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Telegram.svg" width="34" height="34" alt="Telegram" /></a> <a href="https://www.instagram.com/seyedalderson" title="Instagram"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" width="34" height="34" alt="Instagram" /></a> <a href="https://github.com/seyedalderson" title="GitHub"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg" width="34" height="34" alt="GitHub" /></a>
 
 <br />
@@ -20,8 +22,6 @@
 </div>
 
 ---
-
-## English
 
 ### ⚡️🧠👨‍💻 Hi, I'm Hossein!
 Welcome to my GitHub profile! I work across the IT and infrastructure ecosystem, and I'm actively looking for remote projects.
@@ -44,7 +44,9 @@ Years in telecom-ish environments, field networking, support queues, and infra l
 - I'd rather ship something usable than polish a deck forever.
 
 ### ⚡️ What I'm working on now
-These days I'm building my own AI-backed way of working — faster from idea to working system, closer to how my brain actually moves. I usually build it for myself first, then clean it up so others can use it too.
+These days I'm building shared infrastructure for building Telegram bots — a declarative tree-based navigation engine that is meant to be the foundation for several different products, not just one. A lot of time has been spent on its UX so that the experience stays smooth and non-confusing for both admin and end-user modes.
+
+The first product being built on this same infrastructure is **VPNSeller**: a Telegram VPN-sales bot meant to work like a comprehensive panel and, instead of depending on one specific service, connect to multiple panels and protocols such as Hiddify, Marzban, Sanaei, Alireza, as well as MikroTik, WireGuard, and OpenVPN. Users can purchase services individually or as bundles. A Mini App version is also in development and will be available under higher-tier license plans. This project is still in development and will launch soon.
 
 ### 🤝 What you get from working with me
 - Someone who thinks in systems, not just tickets
@@ -69,54 +71,3 @@ For commercial Telegram products, see [TelBot Studio (`seyedtelbot`)](https://gi
 [LinkedIn](https://www.linkedin.com/in/seyedalderson)
 &nbsp;·&nbsp;
 [GitHub](https://github.com/seyedalderson)
-
----
-
-## فارسی
-
-### ⚡️🧠👨‍💻 سلام، من حسینم!
-به پروفایل گیت‌هاب من خوش اومدید! من در تمام حوزه‌های اکوسیستم IT و زیرساخت فعالیت می‌کنم و با افتخار به دنبال پروژه‌های ریموت می‌گردم.
-
-ذهن من جوری کار می‌کنه که از کارهای بیهوده و پیچیدگی‌های الکی بیزاره. وقتی کسی هنوز داره مسئله رو توضیح می‌ده، مغز من از قبل رفته سراغ پیدا کردن ساده‌ترین مسیر ممکن برای حل اون.
-
-### وقتی ذهنیت یک Geek با مدل پردازش ADHD ترکیب می‌شه، چه اتفاقی می‌افته؟ 🦸‍♂️
-نتیجه‌اش می‌شه یک ماشینِ حل مسئله که عاشق سیستم‌سازی و اتوماسیونه:
-
-- 🎯 **Hyperfocus روی چالش‌های چندلایه:** من تکه‌های به‌ظاهر بی‌ربط رو پیدا می‌کنم، برای مدتی غیبم می‌زنه و با سیستمی برمی‌گردم که واقعاً کار می‌کنه.
-- 🚀 **فرار از روتین = خلق اتوماسیون:** از دردهای تکراری خیلی زود کلافه می‌شم، برای همین سریع تبدیلشون می‌کنم به یک سیستم خودکار.
-- 🧩 **پرش بین حوزه‌ها:** موندن توی یک قفس و یک حوزه تکراری حوصلم رو سر می‌بره. اگر حل یک مسئله نیاز داشته باشه، راحت بین حوزه‌های مختلف سوییچ می‌کنم؛ چه شبکه و عملیات باشه، چه اتوماسیون یا حتی نوشتن یک ربات عجیب‌وغریب. عنوان شغلی برام خیلی مهم نیست؛ اگر با کامپیوتر بشه روز کسی رو سبک‌تر کرد، من وسطش هستم.
-
-### 🛠 چطور کار می‌کنم و به چه چیزی باور دارم؟
-سال‌ها کار در محیط‌های مخابراتی، شبکه‌های میدانی، صف‌های پشتیبانی و لیدری زیرساخت باعث شده «معماری‌های روی کاغذ» برام جذابیتی نداشته باشن.
-
-- برای من سیستمی ارزشمنده که زیر بار یک روز شلوغ و دست یک کاربر خسته دوام بیاره.
-- می‌تونم همزمان حواسم به کلی قطعه متحرک باشه، ولی در نهایت خروجی رو ساده نگه می‌دارم.
-- اگر هم‌تیمی من نتونه مسیری که ساختم رو راحت متوجه بشه، از نظر من اون سیستم باگ داره.
-- من نسخهٔ قابل‌استفاده رو به ماه‌ها درگیر شدن روی یک پاورپوینت ترجیح می‌دم.
-
-### ⚡️ در حال حاضر روی چی کار می‌کنم؟
-این روزها دارم شیوهٔ کار خودم رو با کمک هوش مصنوعی (AI) می‌سازم. هدفم رسیدنِ سریع‌تر از ایده به محصول نهایی و هماهنگی بیشتر با سرعت ذهنی خودمه. معمولاً اول برای خودم می‌سازمش و بعد اون‌قدر تمیزش می‌کنم که بقیه هم بتونن ازش استفاده کنن.
-
-### 🤝 از کار کردن با من چی گیرتون میاد؟
-- کسی که همه‌چیز رو به چشم «سیستم» می‌بینه، نه صرفاً تیکت.
-- اتوماسیونی که با شلوغی و کثیف‌کاری‌های دنیای واقعی کنار میاد.
-- محصول ربات / گفت‌وگو با وسواس شدید روی تجربهٔ کاربر.
-- تحویل ابری و runtime بدون آشوب در Git.
-- آدمی که هم می‌تونه سیستم فعلی رو روشن نگه داره، هم چیز بعدی رو بسازه.
-- مالکیت شفاف در کار ریموت: بفهم → بساز → بنویس → تحویل بده.
-
-### 🔭 دنبال چی هستم؟
-پروژه‌های ریموت که بتونم مالکیت یک مسئله واقعی رو به عهده بگیرم — اتوماسیون، DevOps/زیرساخت، سیستم‌های شبکه‌محور، ربات، یا ابزار IT سفارشی که بی‌سروصدا کار روزمرهٔ تیم رو سبک کنه.
-
-### 🌐 محصولات و سازمان‌ها
-برای دیدن محصولات تجاری و ربات‌های تلگرامی من، می‌تونید به [TelBot Studio (`seyedtelbot`)](https://github.com/seyedtelbot) سر بزنید. همچنین برای لایسنس / دموی محصولات تجاری تلگرام به [product-pages](https://github.com/seyedtelbot/product-pages) یا [تلگرام من](https://t.me/seyedalderson) پیام بدید.
-
-### 🔗 ارتباط با من
-
-[تلگرام](https://t.me/seyedalderson)
-&nbsp;·&nbsp;
-[اینستاگرام](https://www.instagram.com/seyedalderson)
-&nbsp;·&nbsp;
-[لینکدین](https://www.linkedin.com/in/seyedalderson)
-&nbsp;·&nbsp;
-[گیت‌هاب](https://github.com/seyedalderson)
