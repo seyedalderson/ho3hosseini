@@ -12,8 +12,8 @@
 <a href="https://www.linkedin.com/in/seyedalderson" title="LinkedIn"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="48" height="48" alt="LinkedIn" /></a>&nbsp;<a href="https://t.me/seyedalderson" title="Telegram"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Telegram.svg" width="48" height="48" alt="Telegram" /></a>&nbsp;<a href="https://www.instagram.com/seyedalderson" title="Instagram"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" width="48" height="48" alt="Instagram" /></a>&nbsp;<a href="https://github.com/seyedalderson" title="GitHub"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg" width="48" height="48" alt="GitHub" /></a>  
 [TelBot Studio](https://github.com/seyedtelbot) · [product-pages](https://github.com/seyedtelbot/product-pages)
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=linux,bash,docker,nginx,cloudflare,kubernetes,terraform,ansible,prometheus,grafana,zabbix,n8n,proxmox,portainer" height="56" alt="skills-infra" />  
-<img src="https://go-skill-icons.vercel.app/api/icons?i=helm,argocd,consul,caddy,redis,postgres,elasticsearch,rabbitmq,kafka,wireshark,aws,nodejs,js,git,github,gitlab,powershell" height="56" alt="skills-oss" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=linux,bash,powershell,docker,kubernetes,helm,argocd,portainer,proxmox,nginx,caddy,cloudflare,terraform,ansible,consul" height="56" alt="skills-infra" />  
+<img src="https://go-skill-icons.vercel.app/api/icons?i=prometheus,grafana,zabbix,n8n,redis,postgres,elasticsearch,rabbitmq,kafka,wireshark,aws,nodejs,js,git,github,gitlab" height="56" alt="skills-oss" />
 
 </div>
 
