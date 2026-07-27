@@ -1,7 +1,7 @@
 # Hossein Hosseini (`seyedalderson`)
 
-**DevOps · Infrastructure · Automation · Systems Builder**  
-Tehran, Iran · Open to **remote** work
+**DevOps · Infrastructure · Automation · Systems**  
+Tehran · Open to remote work
 
 [LinkedIn](https://www.linkedin.com/in/seyedalderson) · [GitHub](https://github.com/seyedalderson)
 
@@ -10,70 +10,70 @@ Tehran, Iran · Open to **remote** work
 ## English
 
 ### About
-I notice friction before people finish explaining it. A slow handoff, a repeated click, a process that only lives in someone’s head — those things bother me, and I usually cannot leave them alone until there is a cleaner path.
+If something feels unnecessarily hard, I notice it fast. People are still explaining the problem and I am already thinking “okay, why are we doing it this way?”
 
-I work best when a problem has depth: I go wide first, connect pieces across domains, then lock in and build until the system feels simple from the outside. I am comfortable jumping between networking, operations, product UX, and automation when the real goal is the same — make daily work less exhausting.
+I like problems with layers. I poke around, connect random-looking pieces, then disappear for a bit and come back with something that actually runs. Titles do not matter much to me. Network, ops, bots, automation, a weird internal tool — if a computer can make someone’s day lighter, I am in.
 
-I do not stay boxed into one title. If a business pain can be solved with computers, I will design something for it: a flow, a bot, a dashboard, an infra pattern, whatever removes the drag. My background in infrastructure, communications systems, and service operations keeps me honest about what survives contact with real users and messy environments.
+I have spent years around infrastructure, communications systems, and support work, so I do not romanticize “perfect architecture.” I care about what survives a busy day and a tired user.
 
-Right now I am shaping an **AI-assisted way of working** around how I actually think — capturing intent quickly, cutting busywork, and turning ideas into running systems without drowning in ceremony. It is still evolving, and it is also where you can see how I design tools for myself first, then harden them for others.
+These days I am building my own **AI-backed way of working** — less busywork, faster from idea to working system, closer to how my brain actually moves. It is still messy and alive, and honestly that is the point: I build for myself first, then clean it up so others can use it too.
 
-### How I tend to work
-- Spot repeating pain early and turn it into a system, not a one-off fix
-- Hold many moving parts in my head, then simplify what others have to touch
-- Switch contexts when the problem demands it — ops, network, product, automation
-- Prefer shipping something usable over polishing a slide deck forever
-- Care about clarity: if a teammate cannot understand the path, the system is unfinished
-- Stay curious across fields; novelty is fuel, reliability is the filter
+### How I work
+- I get annoyed by repeated pain, so I turn it into a system
+- I can hold a lot of moving parts, then make the outside feel simple
+- I jump between domains when the problem needs it
+- I would rather ship something useful than polish a deck forever
+- If my teammate cannot follow the path, I treat that as a bug
+- I get bored in one box — new fields keep me sharp, reliability keeps me honest
 
-### What I bring
-- Infrastructure and network-minded systems thinking
-- Automation that respects real operational constraints
-- Conversational / bot products with production UX instincts
-- Modern cloud and runtime delivery with disciplined Git workflows
-- The bridge between **keeping things running** and **building what should exist next**
-- Remote ownership: clarify the problem, design, implement, document, hand off cleanly
+### What you get
+- Someone who thinks in systems, not just tickets
+- Automation that respects real-world mess
+- Bot / conversational products with real UX care
+- Cloud and runtime delivery without chaotic Git habits
+- A person who can keep things running *and* build the next thing
+- Remote work with clear ownership: understand → build → document → hand off
 
-### Experience in practice
-Across telecom-style environments, field networking, technical support loops, and infrastructure leadership, I have practiced keeping services understandable, coordinating hybrid realities, supporting users under pressure, and delivering systems that still work when the day gets noisy.
+### Background, in plain words
+I have worked through telecom-ish environments, field networking, support queues, and infra leadership. That means I know what “the system is down” feels like on both sides of the ticket.
 
 ### Looking for
-Remote contract work where I can own a clear problem end-to-end — automation, DevOps/infra, networking-aware systems, bot platforms, or custom IT systems that quietly remove friction from a team’s day.
+Remote projects where I can own a real problem — automation, DevOps/infra, network-aware systems, bots, or custom IT stuff that quietly removes friction from a team’s day.
 
 ---
 
 ## فارسی
 
 ### درباره من
-اصطکاک را معمولاً قبل از اینکه طرف مقابل جمله‌اش تمام شود می‌بینم. یک تحویل‌کاری کُند، یک کلیک تکراری، فرآیندی که فقط توی ذهن یک نفر زندگی می‌کند — این‌ها آرامم نمی‌گذارند؛ تا مسیر تمیزتری ساخته نشود رهایشان نمی‌کنم.
+اگر کاری الکی سخت باشد، زود می‌فهمم. هنوز طرف دارد مسئله را تعریف می‌کند، من توی سرم می‌گویم «باشه، ولی چرا اصلاً این‌جوری انجامش می‌دیم؟»
 
-وقتی مسئله عمق دارد بهتر کار می‌کنم: اول پهن می‌شوم، تکه‌ها را از حوزه‌های مختلف به هم وصل می‌کنم، بعد قفل می‌کنم و می‌سازم تا سیستم از بیرون ساده به نظر برسد. اگر هدف یکی باشد، بین شبکه، عملیات، تجربهٔ محصول و اتوماسیون جابه‌جا می‌شوم — چون برایم عنوان مهم نیست؛ کم‌کردن خستگی روزمره مهم است.
+مسئله‌هایی که لایه دارند را دوست دارم. اول این‌ور و آن‌ور را می‌کاوم، تکه‌های به‌ظاهر بی‌ربط را به هم وصل می‌کنم، بعد برای مدتی غیب می‌شوم و با چیزی برمی‌گردم که واقعاً کار می‌کند. عنوان شغلی برام خیلی مهم نیست. شبکه، عملیات، ربات، اتوماسیون، یک ابزار داخلی عجیب — اگر با کامپیوتر بشود روز کسی را سبک‌تر کرد، وسطش هستم.
 
-خودم را داخل یک برچسب شغلی حبس نمی‌کنم. اگر درد یک کسب‌وکار با کامپیوتر حل می‌شود، برایش چیزی طراحی می‌کنم: جریان کار، ربات، داشبورد، الگوی زیرساخت — هرچه بار اضافه را بردارد. سابقهٔ زیرساخت، سیستم‌های ارتباطی و عملیات سرویس کمک می‌کند واقع‌بین بمانم: چیزی که روی اسلاید قشنگ است با چیزی که کنار کاربر واقعی دوام می‌آورد فرق دارد.
+سال‌ها دور‌وبر زیرساخت، سیستم‌های ارتباطی و کار پشتیبانی بوده‌ام؛ برای همین عاشق «معماری روی کاغذ» نیستم. برایم مهم است چیزی که می‌سازیم روز شلوغ و کاربر خسته را دوام بیاورد.
 
-الان دارم یک **شیوهٔ کار مبتنی بر AI** دورِ طرز فکر خودم شکل می‌دهم — ثبت سریع نیت، کم‌کردن کار اضافه، و تبدیل ایده به سیستمِ در حال اجرا بدون تشریفات بیهوده. هنوز در حال رشد است؛ و همزمان بهترین جا برای دیدن این است که اول برای خودم ابزار می‌سازم، بعد آن را برای دیگران محکم می‌کنم.
+این روزها دارم **شیوهٔ کار خودم با کمک AI** را می‌سازم — کمتر کار الکی، سریع‌تر از ایده تا سیستمِ روشن، نزدیک‌تر به مسیری که مغزم واقعاً طی می‌کند. هنوز شلوغ و زنده است، و راستش همان هم جذابش می‌کند: اول برای خودم می‌سازم، بعد جوری تمیزش می‌کنم که بقیه هم بتوانند استفاده کنند.
 
 ### چطور کار می‌کنم
-- دردهای تکراری را زود می‌بینم و به‌جای وصلهٔ موقت، سیستم می‌سازم
-- قطعات زیاد را هم‌زمان نگه می‌دارم، بعد چیزی می‌سازم که لمسش برای دیگران ساده باشد
-- اگر مسئله بخواهد، بین ops، شبکه، محصول و اتوماسیون جابه‌جا می‌شوم
-- به‌جای بی‌نهایت پولیش روی ارائه، نسخهٔ قابل‌استفاده تحویل می‌دهم
-- شفافیت برایم جدی است: اگر مسیر برای هم‌تیمی فهمیدنی نباشد، کار تمام نیست
-- کنجکاوی بین‌حوزه‌ای دارم؛ تازگی سوخت است، پایداری فیلتر
+- از درد تکراری زود کلافه می‌شوم، برای همین سیستم می‌سازم
+- کلی قطعه را هم‌زمان نگه می‌دارم، ولی خروجی را ساده نگه می‌دارم
+- اگر مسئله بخواهد، بین حوزه‌ها می‌پرم
+- نسخهٔ قابل‌استفاده را به پاورپوینتِ بی‌نهایت ترجیح می‌دهم
+- اگر هم‌تیمی مسیر را نفهمد، می‌گویم باگ است
+- توی یک قفس حوصله‌ام سر می‌رود؛ حوزهٔ جدید سرحالم می‌کند، پایداری مرامی‌ام را نگه می‌دارد
 
-### چه می‌آورم
-- تفکر سیستمی با ذهنیت زیرساخت و شبکه
-- اتوماسیونی که محدودیت‌های واقعی عملیات را می‌فهمد
-- محصولات گفت‌وگویی / ربات با غریزهٔ UX سطح production
-- تحویل روی استک‌های ابری و runtime مدرن با نظم در Git
-- پل بین **روشن نگه‌داشتن سیستم** و **ساختن چیزی که باید بعدی باشد**
-- مالکیت ریموت: شفاف‌سازی مسئله، طراحی، پیاده‌سازی، مستندسازی، تحویل تمیز
+### چی گیرتان می‌آید
+- کسی که سیستم می‌بیند، نه فقط تیکت
+- اتوماسیونی که با شلوغی دنیای واقعی کنار می‌آید
+- محصول ربات / گفت‌وگو با وسواس روی تجربهٔ کاربر
+- تحویل ابری و runtime بدون آشوب در Git
+- آدمی که هم سیستم را روشن نگه می‌دارد، هم چیز بعدی را می‌سازد
+- کار ریموت با مالکیت شفاف: بفهم → بساز → بنویس → تحویل بده
 
-### تجربه در عمل
-در محیط‌های مخابراتی، شبکهٔ میدانی، حلقه‌های پشتیبانی فنی، و راهبری زیرساخت و سرویس‌ها تمرین کرده‌ام سرویس را فهمیدنی نگه دارم، واقعیت hybrid را مدیریت کنم، زیر فشار به کاربر کمک کنم، و سیستمی بسازم که وقتی روز شلوغ می‌شود هم سرپا بماند.
+### سابقه، خودمانی
+توی محیط‌های مخابراتی، شبکهٔ میدانی، صف پشتیبانی و راهبری زیرساخت کار کرده‌ام. یعنی هم طرف «سیستم خوابیده» را بلدم، هم طرف کسی که باید جواب کاربر را بدهد.
 
-### به دنبال چه هستم
-همکاری ریموت روی مسئله‌ای که بتوانم از اول تا آخرش را جلو ببرم — اتوماسیون، DevOps/زیرساخت، سیستم‌های آگاه به شبکه، پلتفرم ربات، یا سیستم‌های IT سفارشی که بی‌سروصدا اصطکاک روزانهٔ یک تیم را کم کنند.
+### دنبال چی هستم
+پروژهٔ ریموت که یک مسئلهٔ واقعی داشته باشد و بتوانم از اول تا آخرش را جلو ببرم — اتوماسیون، DevOps/زیرساخت، سیستم‌های شبکه‌محور، ربات، یا ابزار IT سفارشی که بی‌سروصدا کار روزمرهٔ تیم را سبک کند.
 
 ---
 
@@ -84,4 +84,4 @@ Remote contract work where I can own a clear problem end-to-end — automation, 
 | Public product intros | [product-pages](https://github.com/seyedtelbot/product-pages) |
 | Personal lab | [Seyed Lab (`Seyed-Lab-Repo`)](https://github.com/Seyed-Lab-Repo) |
 
-For licensing / demos of commercial Telegram products, start from [product-pages](https://github.com/seyedtelbot/product-pages) or message me on [LinkedIn](https://www.linkedin.com/in/seyedalderson).
+For commercial Telegram product licensing / demos: [product-pages](https://github.com/seyedtelbot/product-pages) or [LinkedIn](https://www.linkedin.com/in/seyedalderson).
