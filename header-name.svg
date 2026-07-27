@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="210" viewBox="0 0 1100 210">
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="175" viewBox="0 0 1100 175">
   <text
     x="550"
-    y="95"
+    y="90"
     text-anchor="middle"
     font-family="Segoe UI, Helvetica, Arial, sans-serif"
     font-size="84"
@@ -10,7 +10,7 @@
   >Hossein Hosseini</text>
   <text
     x="550"
-    y="160"
+    y="155"
     text-anchor="middle"
     font-family="ui-monospace, SFMono-Regular, Consolas, monospace"
     font-size="30"
