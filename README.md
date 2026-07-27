@@ -44,9 +44,9 @@ Years in telecom-ish environments, field networking, support queues, and infra l
 - I'd rather ship something usable than polish a deck forever.
 
 ### ⚡️ What I'm working on now
-These days I'm building shared infrastructure for building Telegram bots — a declarative tree-based navigation engine that is meant to be the foundation for several different products, not just one. A lot of time has been spent on its UX so that the experience stays smooth and non-confusing for both admin and end-user modes.
+These days I'm building an internal system that behaves like a self-managed IT department — multiple specialized AI agents, each responsible for one domain (infrastructure, database, development, DevOps, security), plus a management layer that receives a request, determines which part should act, and executes only that part. Everything runs fully local with no dependency on cloud APIs, and it is designed to manage several real projects at the same time, not just one. Significant effort has also gone into this system's interface and usability so that working with it stays simple and unconfusing.
 
-The first product being built on this same infrastructure is **VPNSeller**: a Telegram VPN-sales bot meant to work like a comprehensive panel and, instead of depending on one specific service, connect to multiple panels and protocols such as Hiddify, Marzban, Sanaei, Alireza, as well as MikroTik, WireGuard, and OpenVPN. Users can purchase services individually or as bundles. A Mini App version is also in development and will be available under higher-tier license plans. This project is still in development and will launch soon.
+The first product being built with the help of this infrastructure is **VPNSeller**: a Telegram VPN-sales bot meant to work like a comprehensive panel and, instead of depending on one specific service, connect to multiple VPN management services and protocols. Users can purchase services individually or as bundles. A Mini App version is also in development and will be available under higher-tier license plans. This project is still in development and will launch soon.
 
 ### 🤝 What you get from working with me
 - Someone who thinks in systems, not just tickets
